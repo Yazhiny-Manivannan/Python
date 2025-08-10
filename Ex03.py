@@ -1,8 +1,18 @@
-x = 1
-while x < 10:
-    y = x*(x + 1)//2
-    if y <= 15:
-        print(y, " ", end="")
-    x += 1    
+# x = 1
+# while x < 10:
+    # y = x*(x + 1)//2
+    # if y <= 15:
+        # print(y, " ", end="")
+    # x += 1    
     
 # 1  3  6  10  15    
+
+'''
+x = 1
+y = 2
+
+while x <= 15:
+    print(x, " ", end="")
+    x += y
+    y += 1
+'''    
