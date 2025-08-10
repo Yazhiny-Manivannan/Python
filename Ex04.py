@@ -1,5 +1,5 @@
 x = 1
-while x < 10:
+while x < 10: 
     y = x*x
     if(y<=25):
         print(y, " ", end="")
